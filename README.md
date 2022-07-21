@@ -2,4 +2,5 @@
  linux with C_language (OJ tube lecture)
 
 # 강의 로드맵
-![image](https://user-images.githubusercontent.com/55613547/180244732-e0946838-5767-4ec1-a55b-1b2ca9d2bb7d.png)
+![image](https://user-images.githubusercontent.com/55613547/180262719-d72ee29e-cdb5-4df6-a107-d94b5b95341f.png)
+
